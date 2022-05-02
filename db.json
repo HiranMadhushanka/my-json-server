@@ -1,16 +1,7 @@
 {
-    "doctorName": "Dr. Dennis Pieris",
-    "specialization": "Dentist",
-    "hospitalLogoUrl": "../../../../assets/images/hospital-dummy.jpg",
     "availability": "1",
-    "roomNumber": "A-3",
     "ongoingNumber": null,
-    "attemptsLeft": 9,
-    "nextNumbersInTheQueue": " 03 04 05",
-    "appointmentNumber": 16,
     "appointmentDateTime": "Thu 10.10 AM",
     "ongoingNumberNote": "hgrthrt",
-    "lastNumberServed": "1",
     "arrivedAt": "Thu 10.10 AM",
-    "sessionEndedAt": "Thu 10.10 AM"
 }
